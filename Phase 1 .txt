@@ -1,0 +1,29 @@
+﻿Eliza Salamon, Laurel Prime, Melissa LaFountain, Linh Truong
+Phase 1
+
+
+https://github.com/esalamon17/Info-2950-Project
+
+
+Datasets:
+* Political ads/fake news
+   * https://www.propublica.org/datastore/dataset/political-advertisements-from-facebook 
+* Political divisions on Twitter
+   * https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6XCLRY
+* Pandemic Response varying by location/demographics
+   * https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TTBTHP 
+* Police Misconduct and Reforms
+   * https://fivethirtyeight.com/features/police-misconduct-costs-cities-millions-every-year-but-thats-where-the-accountability-ends/
+   * https://www.propublica.org/datastore/dataset/civilian-complaints-against-new-york-city-police-officers 
+   * https://www.ncsl.org/research/civil-and-criminal-justice/legislative-responses-for-policing.aspx 
+* General political variation over different demographics
+   * Party affiliation by state - Religion in America - Religion ...https://www.pewforum.org › compare › state
+
+
+
+
+Questions for reviewers:
+* How should we use a dataset that is already analyzed? Can we incorporate the analysis in our own report?
+* What should we be mindful of when combining different data points into a dataset for our project?
+* What constitutes a dataset idea that’s too narrow/broad in scope?
+* Should we go into the project with any idea of what specifically we hope to discover, or just let the data analysis reveal insights?
